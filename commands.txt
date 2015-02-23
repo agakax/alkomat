@@ -1,0 +1,2 @@
+sudo avrdude -p atmega328p -c usbasp -P usb -t
+
